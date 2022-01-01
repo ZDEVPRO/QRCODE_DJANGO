@@ -3,4 +3,4 @@
 THIS IS "QRCODE IN DJANGO" PROJECT
 
 setup project:
-<h1> <mark>1:</mark> virtualenv venv</h1>
+<h3> <mark style="background-color: yellow;">1:</mark> virtualenv venv</h3>
