@@ -5,14 +5,14 @@ THIS IS "QRCODE IN DJANGO" PROJECT
 setup project:
 <p>1: virtualenv venv</p>
 
-<h3>2: source/bin/activate</h3>
+<p>2: source/bin/activate</p>
 
-<h3>3: pip3 install -r requirements.txt</h3>
+<p>3: pip3 install -r requirements.txt</p>
 
-<h3>4: python3 manage.py makemigrations</h3>
+<p>4: python3 manage.py makemigrations</p>
 
-<h3>5: python3 manage.py migrate</h3>
+<p>5: python3 manage.py migrate</p>
 
-<h3>6: python3 manage.py createsuperuser</h3>
+<p>6: python3 manage.py createsuperuser</p>
 
-<h3>5: python3 manage.py runserver</h3>
+<p>5: python3 manage.py runserver</p>
