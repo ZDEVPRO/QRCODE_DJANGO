@@ -3,7 +3,7 @@
 THIS IS "QRCODE IN DJANGO" PROJECT
 
 setup project:
-<h3>1: virtualenv venv</h3>
+<p>1: virtualenv venv</p>
 
 <h3>2: source/bin/activate</h3>
 
